@@ -1,14 +1,13 @@
 .navbar{
-    background-color: #333333;
     color: white;
     display: flex;
     flex-direction: row;
-    gap:85px;
     align-items: center;
+    justify-content: space-between;
+    background: rgb(51, 51, 51);
     padding-left: 15px;
-    padding-right: 30px;
-    border-radius: 10px;
-    height: 70px;
+    padding-right: 40px;
+    font-size: 1.5rem;
 }
 
 .span{
