@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+git-initialize.sh
+setup-vite-tailwind.sh
