@@ -1,0 +1,27 @@
+.navbar{
+    background-color: #333333;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    gap:85px;
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 30px;
+    border-radius: 10px;
+    height: 70px;
+}
+
+.span{
+    color: #ffa500;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    align-items: flex-end;
+
+    
+}
+
+
