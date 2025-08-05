@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <>
     <header>
-    <div className="navbar">
+    <div className="navbar fixed top-0 left-0 w-full z-20">
         <p><span className='span'>TRIP</span> PLANNR</p>
         <p>Home</p>
         <p>Carpool</p>
